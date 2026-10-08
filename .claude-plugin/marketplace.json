@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "implementer-ki",
+  "owner": { "name": "Implementer KI" },
+  "metadata": { "description": "Claude-skills fra Implementer KI." },
+  "plugins": [
+    {
+      "name": "claude-instagram-skills",
+      "source": "./",
+      "description": "53 gratis Claude-skills som driver Instagram-en din, med Obsidian som hukommelse.",
+      "author": { "name": "Implementer KI" },
+      "category": "marketing"
+    }
+  ]
+}
