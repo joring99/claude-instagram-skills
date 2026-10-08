@@ -6,7 +6,7 @@ set -euo pipefail
 
 main() {
   SKILLS_DIR="${HOME}/.claude/skills"
-  REPO_URL="https://github.com/GH_USER/claude-instagram-skills"
+  REPO_URL="https://github.com/joring99/claude-instagram-skills"
   SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
   echo "Installerer Claude Instagram Skills..."

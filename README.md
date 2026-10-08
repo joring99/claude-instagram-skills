@@ -13,20 +13,20 @@ Du trenger [Claude Code](https://claude.com/claude-code) (følger med Claude Pro
 **Enklest:** åpne Claude Code og lim inn:
 
 ```
-Installer skillsene fra https://github.com/GH_USER/claude-instagram-skills
+Installer skillsene fra https://github.com/joring99/claude-instagram-skills
 ```
 
 **Eller som plugin** (skriv inn i Claude Code):
 
 ```
-/plugin marketplace add GH_USER/claude-instagram-skills
+/plugin marketplace add joring99/claude-instagram-skills
 /plugin install claude-instagram-skills@implementer-ki
 ```
 
 **Eller i terminalen** (macOS / Linux):
 
 ```bash
-git clone --depth 1 https://github.com/GH_USER/claude-instagram-skills.git
+git clone --depth 1 https://github.com/joring99/claude-instagram-skills.git
 bash claude-instagram-skills/install.sh
 ```
 

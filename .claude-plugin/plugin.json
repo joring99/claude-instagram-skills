@@ -4,7 +4,7 @@
   "description": "53 gratis Claude-skills som driver Instagram-en din: content research, hooks, manus, reels, karuseller, captions, kommentarsvar og innholdskalender. Med Obsidian som Claudes hukommelse. Fra Implementer KI.",
   "author": { "name": "Implementer KI" },
   "license": "MIT",
-  "repository": "https://github.com/GH_USER/claude-instagram-skills",
+  "repository": "https://github.com/joring99/claude-instagram-skills",
   "category": "marketing",
   "keywords": ["instagram", "reels", "content", "obsidian", "claude-skills", "norsk"]
 }
